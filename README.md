@@ -1,4 +1,4 @@
-# gfcz
+# GFCZ
 Game Forums CZ/SK
 
 Official server GitHub project
